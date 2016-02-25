@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t vgalloy/computer-database-mysql .
+docker build -t vgalloy/computer-database-mysql-prod .
